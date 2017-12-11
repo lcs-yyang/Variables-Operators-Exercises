@@ -2,7 +2,7 @@
 /*:
  # Constants, Variables, Data Types
  
- ## Learning Goals - Programming
+ ## Learning Goals - Programmingr
  
  * Goal 1
     * *Knowledge*
@@ -35,6 +35,10 @@
  
  */
 // Answer Question 1 below
+let studentFirstName = "Jennifer"
+let studentLastName = "Yang"
+var studentsCurrentGrade = 11
+let studentNovemberReportGrade = 90
 
 /*:
  ### Question 2
@@ -47,6 +51,9 @@
  
  */
 // Answer Question 2 below
+let myAge = 16
+let otherAge = 40.0
+let averageAge = (Double(myAge) + otherAge)/2 
 
 
 /*:
