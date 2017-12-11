@@ -53,7 +53,7 @@ let studentNovemberReportGrade = 90
 // Answer Question 2 below
 let myAge = 16
 let otherAge = 40.0
-let averageAge = (Double(myAge) + otherAge)/2 
+let averageAge = (Double(myAge) + otherAge)/2
 
 
 /*:
@@ -62,7 +62,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-
+var personsFavoutiteHobby = "dancing"
 
 /*:
  ### Question 4
@@ -72,8 +72,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
-
+print("Constant means to be assigned a value, once it's set, the value of a constant is immutable, which means that it cannot be changed. The advantages are: First, if you set a value to a constant, the compiler understands that it should never be changed and it's safe. Second, there are special optimizations that the compiler can make for constant values. When you use constants for values that won't change, the compiler can make low-level assumptions about how to store the value. These adjustments allow your program to execute faster.")
 /*:
  ### Question 5
  
@@ -83,7 +82,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
