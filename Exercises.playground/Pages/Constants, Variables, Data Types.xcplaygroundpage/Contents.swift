@@ -102,7 +102,9 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-var = 2017
+var year = 2017
+let name = "Hal"
+print("The compiler throw an error and won't run the programme. Because of a data type mismatch, this is a syntax error.")
 
 
 /*:
@@ -113,7 +115,7 @@ var = 2017
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
+print("Swift is considered a type-safe language. Type-safe languages encourage or require you to be clear about the types of values your code can work with. For example, if part of your code expects an Int, you can't pass it a Double or a String.")
 
 
 
