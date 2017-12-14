@@ -102,6 +102,7 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
+var = 2017
 
 
 /*:
